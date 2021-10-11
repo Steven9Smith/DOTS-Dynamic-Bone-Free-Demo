@@ -31,6 +31,9 @@ Red means it has been disabled and the blue means "I'm pretty sure it does nothi
 
 The rest of the components parts have tooltips that tell you what they do.
 
+Please Give Your Feedback at this Unity Forum Link :)
+https://forum.unity.com/threads/dots-dynamic-bones-wip-demo-v0-8-2.1176287/
+
 #FAQ
 
 Why is this a demo? 
