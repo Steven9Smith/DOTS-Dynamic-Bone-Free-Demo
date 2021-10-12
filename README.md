@@ -45,6 +45,4 @@ the root bone keeps jittering, is this normal?
 Why are there components that do nothing?
 - cause i'm not done
 
-I have a lot of nested children and the last children are acting the way I expected Is this intentional?
-- no, this is a result of the missing calculation needed to convert a modified AnimatedLocalToWorld to an AnimatedLocalToRoot. Math is hard.
 
