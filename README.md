@@ -31,6 +31,9 @@ Red means it has been disabled and the blue means "I'm pretty sure it does nothi
 
 The rest of the components parts have tooltips that tell you what they do.
 
+Please Give Your Feedback at this Unity Forum Link :)
+https://forum.unity.com/threads/dots-dynamic-bones-wip-demo-v0-8-2.1176287/
+
 #FAQ
 
 Why is this a demo? 
@@ -42,6 +45,4 @@ the root bone keeps jittering, is this normal?
 Why are there components that do nothing?
 - cause i'm not done
 
-I have a lot of nested children and the last children are acting the way I expected Is this intentional?
-- no, this is a result of the missing calculation needed to convert a modified AnimatedLocalToWorld to an AnimatedLocalToRoot. Math is hard.
 
