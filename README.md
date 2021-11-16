@@ -3,6 +3,14 @@ A Demo Version of the unfinished DOTS Dynamic Bone System
 
 This is a demo version of the DOTS Dynamic Bones system.
 
+If you want to access the full version check out these links:
+
+Documentation: https://steven9smith.github.io/DOTS-Dynamic-Bone/
+
+Asset Store Page: [Pending Unity Approval]
+
+## Quick Demo Documentation
+
 In this demo you have acess to two Components: the DOTSDyanmicBoneComponent and DOTSDynamicBonesComponent...ignore the DOTSDynbamicBoneComponent because the DOTSDynamicBonesComponentUses it anyway.
 
 I will now break down each option and how to use it but please look at this image first to know what works and what doesn't work.
