@@ -7,7 +7,7 @@ If you want to access the full version check out these links:
 
 Documentation: https://steven9smith.github.io/DOTS-Dynamic-Bone/
 
-Asset Store Page: [Pending Unity Approval]
+Asset Store Page: https://assetstore.unity.com/packages/tools/physics/dots-dynamic-bone-204257
 
 ## Quick Demo Documentation
 
