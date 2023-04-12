@@ -5,7 +5,7 @@ This is a demo version of the DOTS Dynamic Bones system.
 
 If you want to access the full version check out these links:
 
-Documentation: https://steven9smith.github.io/DOTS-Dynamic-Bone/
+Documentation: https://steven9smith.github.io/DOTS-Dynamic-Bone-Docs/
 
 Asset Store Page: https://assetstore.unity.com/packages/tools/physics/dots-dynamic-bone-204257
 
